@@ -1,0 +1,9 @@
+{
+  "name": "Ploggo - 플로깅 경로 기록기",
+  "short_name": "Ploggo",
+  "description": "플로깅 이동 경로를 직접 지도에 기록하고 저장하는 모바일 웹앱",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#10b981"
+}

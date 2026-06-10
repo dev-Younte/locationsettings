@@ -220,6 +220,9 @@ export default function RouteList({
             })
           )}
         </div>
+        <div className={styles.footer}>
+          Made by 10509 Taeyoon Kim
+        </div>
       </div>
     </>
   );
